@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ileyver.github.io/sitemap.html.gz
+Sitemap: https://ileyver.github.io/app/sitemap.html.gz
+Sitemap: https://ileyver.github.io/assets/sitemap.html.gz
+Sitemap: https://ileyver.github.io/css/sitemap.html.gz
+Sitemap: https://ileyver.github.io/includes/sitemap.html.gz
+Sitemap: https://ileyver.github.io/item/sitemap.html.gz
+Sitemap: https://ileyver.github.io/src/sitemap.html.gz
